@@ -1,3 +1,5 @@
+//TicTacToe 1.0, without the drawing of the board.
+
 #include <iostream>
 #include <string>
 #include <vector>
